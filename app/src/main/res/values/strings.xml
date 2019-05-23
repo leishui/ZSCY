@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZSCY</string>
+    <string name="number_of_weeks">周数</string>
+    <string name="edit_memo">编辑备忘</string>
+    <string name="title">标题</string>
+    <string name="please_enter_a_title">请输入标题</string>
+    <string name="content">内容</string>
+    <string name="please_edit_the_content">请编辑内容......</string>
+    <string name="select_weeks">选择周数</string>
+    <string name="time">时间</string>
+    <string name="select_time">选择时间</string>
+    <string name="remind">提醒</string>
+    <string name="no_reminder">不提醒</string>
+    <string name="to_login_activity">to login activity</string>
+    <string name="to_edit_remind_activity">to edit remind activity</string>
+    <string name="login">登录</string>
+    <string name="enter_student_number">请输入学号</string>
+    <string name="password">请输入身份证后六位</string>
+</resources>
