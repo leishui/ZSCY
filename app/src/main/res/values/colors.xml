@@ -8,4 +8,7 @@
     <color name="colorBlue_1">#6f98fb</color>
     <color name="colorGray">#f4f4f4</color>
     <color name="colorFontGray">#999999</color>
+    <color name="colorBlue_2">#eef6fd</color>
+    <color name="colorBlue_sure">#6d83ee</color>
+    <color name="colorBlue_solid">#81b6fe</color>
 </resources>

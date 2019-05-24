@@ -4,8 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background_1"
-    android:orientation="vertical"
-    android:fitsSystemWindows="true">
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
 
     <!--标题栏 -->
     <android.support.v7.widget.Toolbar
@@ -14,8 +14,7 @@
         android:layout_height="wrap_content"
         android:paddingEnd="20dp"
         android:paddingRight="20dp"
-        tools:ignore="RtlSymmetry"
-        >
+        tools:ignore="RtlSymmetry">
 
         <ImageButton
             android:id="@+id/ibtn_back"
@@ -48,8 +47,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:background="@color/colorWhite_2">
+        android:background="@color/colorWhite_2"
+        android:orientation="vertical">
 
         <!--标题 -->
         <LinearLayout
